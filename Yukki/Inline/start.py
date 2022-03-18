@@ -113,7 +113,7 @@ def private_panel():
             ],
             [
                 InlineKeyboardButton(
-                  "➕ Məni öz qrupuna əlavə et"
+                   "➕ Məni öz qrupuna əlavə et"
                     url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
                 )
             ],
