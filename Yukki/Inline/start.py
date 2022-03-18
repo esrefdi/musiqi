@@ -113,7 +113,7 @@ def private_panel():
             ],
             [
                 InlineKeyboardButton(
-                    "➕ Aməni qurupa əlavə et!
+                    "➕  məni qurpa əlavə et!"
                     url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
                 )
             ],
@@ -128,7 +128,7 @@ def private_panel():
             ],
             [
                 InlineKeyboardButton(
-                    "➕ A məni qurpa əlavə et ! ,
+                    "➕ məni qurpa  əlavə et!"
                     url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
                 )
             ],
@@ -148,7 +148,7 @@ def private_panel():
             ],
             [
                 InlineKeyboardButton(
-                    "➕ Aməni qurpa ələavə et!
+                    "➕  məni qurpa əlavə ət!"
                     url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
                 )
             ],
@@ -168,7 +168,7 @@ def private_panel():
             ],
             [
                 InlineKeyboardButton(
-                    "➕ Aməni qurpa ələvə et!",
+                    "➕ məni qurpa  əlavə et!"
                     url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
                 )
             ],
