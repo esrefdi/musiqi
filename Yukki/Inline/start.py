@@ -20,7 +20,7 @@ def setting_markup2():
             ),
         ],
         [
-            InlineKeyboardButton(text="✖️ Close", callback_data="close"),
+            InlineKeyboardButton(text="✖️ Close", callback_data="təmizlə"),
         ],
     ]
     return f"🔧  **{MUSIC_BOT_NAME} Settings**", buttons
@@ -31,7 +31,7 @@ def start_pannel():
         buttons = [
             [
                 InlineKeyboardButton(
-                    text="🗂 Helper Commands Menu", callback_data="shikhar"
+                    text="🗂 əmirlər menyusu  Menu", callback_data="shikhar"
                 ),
             ],
             [
